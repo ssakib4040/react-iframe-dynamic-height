@@ -10,3 +10,4 @@ yarn.lock
 
 # cache 
 .cache/
+.parcel-cache/
