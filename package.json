@@ -4,7 +4,7 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "scripts": {
-    "test-app": "parcel test-app/src/index.html"
+    "test-app": "parcel test-app/index.html"
   },
   "license": "MIT",
   "devDependencies": {
